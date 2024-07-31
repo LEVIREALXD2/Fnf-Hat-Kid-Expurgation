@@ -1,32 +1,22 @@
 {
 	"songs": [
-		[
-			"Expurgation",
-			"expurgation/extiky",
-			[
-				146,
-				0,
-				33
-			]
-		]
+		["Spookeez", "spooky", [34, 51, 68]],
+		["South", "spooky", [34, 51, 68]],
+		["Monster", "monster", [34, 51, 68]]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "unfair",
+
 	"weekCharacters": [
-		"dad",
+		"spooky",
 		"bf",
 		"gf"
 	],
-	"storyName": "Your New Week",
-	"weekName": "Custom Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
+	"weekBackground": "halloween",
+
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hideFreeplay": false
 }
